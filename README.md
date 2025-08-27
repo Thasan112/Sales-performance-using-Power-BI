@@ -2,8 +2,10 @@
 The Sales performance of Awesome chocolate is analysed  by  Power BI
 
 Performance sales by geography - a)The company sells chocolate in 6 countries namely New Zealand, UK,India,Canada,Australia and USA.
-                                 
-                                 b)Team perforance at individual level is analysed.
+
+                                  b)Team perforance at individual level is analysed.
+          
+         
                                  
 Sales per performance project - a)An individual level sales  performance is analysed cross overly throughout the 6 geographies.
 
